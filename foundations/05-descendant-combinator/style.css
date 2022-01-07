@@ -1,0 +1,22 @@
+.container .text{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/*test methods*/
+
+/*div {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+.container {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
